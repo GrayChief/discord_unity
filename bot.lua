@@ -1,7 +1,7 @@
 local discordia = require('discordia')
 local client = discordia.Client()
 local prefix = "/"
-local token = "Njk5NDg0MjA5NDY2ODM0OTQ0.Xu1NGg.XbWSXUPTKFGVmOEMBgGUibBdWXU"
+local token = "<token here>"
 local quote = "> "
 local colourembed = 27, 7, 6
 local owneravatar = "https://cdn.discordapp.com/avatars/343102736083976203/a_04c00bb23d8fb78e80d9dc42ab496d20.gif"
